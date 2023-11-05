@@ -1,0 +1,22 @@
+{
+    "1": {
+        "name": "Dish 1",
+        "price": 10.0,
+        "availability": true
+    },
+    "2": {
+        "name": "Dish 2",
+        "price": 15.0,
+        "availability": false
+    },
+    "3": {
+        "name": "tets-2",
+        "price": 20.0,
+        "availability": false
+    },
+    "4": {
+        "name": "test-4",
+        "price": 50.0,
+        "availability": true
+    }
+}
